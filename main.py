@@ -1,0 +1,1 @@
+# Initially made as console applications, to later port to a gui interface
